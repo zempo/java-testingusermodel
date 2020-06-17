@@ -2352,4 +2352,7 @@ Status 201 Created
 
 * [ ] Provide unit testing for the User Service. To reach MVP you must provide at least 75% coverage of the code in User Service as reported in IntelliJ
 * [ ] Provide unit testing for the User Controller. To reach MVP you must provide at least 75% coverage of the code in User Controller as reported in IntelliJ
+
+### Stretch Goal
+
 * [ ] Provide integration testing for the User Controller. To reach MVP you must provide at least 75% coverage of the code in User Controller as reported in IntelliJ
