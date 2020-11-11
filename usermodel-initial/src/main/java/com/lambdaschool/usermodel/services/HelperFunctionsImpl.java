@@ -10,7 +10,7 @@ import java.util.List;
 
 @Service(value = "helperFunctions")
 public class HelperFunctionsImpl
-        implements HelperFunctions
+    implements HelperFunctions
 {
     public List<ValidationError> getConstraintViolation(Throwable cause)
     {
@@ -33,7 +33,7 @@ public class HelperFunctionsImpl
             {
                 ValidationError newVe = new ValidationError();
                 newVe.setCode(cv.getInvalidValue()
-                                      .toString());
+                    .toString());
                 newVe.setMessage(cv.getMessage());
                 listVE.add(newVe);
             }
