@@ -1035,5 +1035,5 @@ Status OK
 
 ### Stretch Goal
 
-* [ ] Provide integration testing for the User Controller. To reach the Stretch Goal you must provide 100% coverage of the code in User Controller as reported in IntelliJ
-* [ ] Provide unit testing for the User Service (with or without database access - pick the one you did not do for MVP). To reach the Stretch Goal you must provide 100% coverage of the code in User Service as reported in IntelliJ
+* [ ] Provide integration testing for the User Controller. To reach the Stretch Goal you must provide 95% coverage of the code in User Controller as reported in IntelliJ
+* [ ] Provide unit testing for the User Service (with or without database access - pick the one you did not do for MVP). To reach the Stretch Goal you must provide 95% coverage of the code in User Service as reported in IntelliJ
